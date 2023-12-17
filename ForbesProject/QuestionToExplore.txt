@@ -1,0 +1,10 @@
+1.	Top 10 billionaires on Forbes.
+2.	Countries with highest number of Forbes list companies.
+3.	number of billionaires in the country?
+4.	Name of billionaires in the country.
+5.	Industries and their counts in Forbes list.
+6.	Top industries by count of billionaires.
+7.	Relationship between money and age.
+8.	Number of billionaires by age range.
+9.	Youngest billionaires in Forbes list.
+10.	Top 10 richest in Africa.
